@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a PhD student in Applied mathematics at the University of Oxford. My supervisors are Coralia Cartis and Armin Eftekhari. 
+[My personnal website under construction :-)] I am currently working as a PhD student in Applied mathematics at the University of Oxford. My supervisors are Coralia Cartis and Armin Eftekhari. 
 
 Research interests: 
 - Optimization on Riemannian manifolds
