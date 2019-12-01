@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-[My personnal website under construction :-)] I am currently working as a PhD student in Applied mathematics at the University of Oxford. My supervisors are Coralia Cartis and Armin Eftekhari. 
+
+I am a Ph.D. student in the Applied Mathematics department at the University of Oxford. My supervisors are Coralia Cartis and Armin Eftekhari. My research is supported by the Alan Turing Institute.
 
 Research interests: 
+- Nonlinear matrix recovery
 - Optimization on Riemannian manifolds
 - Second order optimization methods
-- Nonlinear matrix recovery
+
