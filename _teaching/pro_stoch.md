@@ -1,5 +1,5 @@
 ---
-title: Stochastic processes : Estimation and prediction, LINMA1731
+title: "Stochastic processes : Estimation and prediction, LINMA1731"
 collection: teaching
 type: "Assistant for the project of the course"
 permalink: /teaching/pro_stoch.md
