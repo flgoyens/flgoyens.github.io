@@ -1,3 +1,11 @@
+---
+permalink: /contact/
+title: "Contact"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /contact.html
+---
 
 E-mail: goyens@maths.ox.ac.uk
 Office: S2.35
