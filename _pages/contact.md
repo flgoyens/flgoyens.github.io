@@ -7,15 +7,15 @@ redirect_from:
   - /contact.html
 ---
 
-E-mail: goyens@maths.ox.ac.uk\
+E-mail: goyens@maths.ox.ac.uk<br/>
 Office: S2.35
 
 
-Mathematical Institute\  
-University of Oxford\  
-Andrew Wiles Building\
-Radcliffe Observatory Quarter\
-Woodstock Road\
-Oxford\
-OX2 6GG\
+Mathematical Institute<br/>  
+University of Oxford<br/>
+Andrew Wiles Building<br/>
+Radcliffe Observatory Quarter<br/>
+Woodstock Road<br/>
+Oxford<br/>
+OX2 6GG<br/>
 UK
