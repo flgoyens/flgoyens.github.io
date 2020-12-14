@@ -11,7 +11,7 @@ E-mail: goyens@maths.ox.ac.uk<br/>
 Office: S2.35
 
 
-Mathematical Institute<br/>  
+Mathematical Institute<br/>
 University of Oxford<br/>
 Andrew Wiles Building<br/>
 Radcliffe Observatory Quarter<br/>
