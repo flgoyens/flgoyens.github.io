@@ -17,5 +17,5 @@ Prior to that, I got my Master's Degree in Mathematical Engineering at UCLouvain
 # Research interests
 - Nonlinear matrix recovery
 - Optimization on Riemannian manifolds
-- Second order optimization methods
+- Second-order optimization methods
 
