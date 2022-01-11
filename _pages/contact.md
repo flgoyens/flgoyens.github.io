@@ -10,7 +10,7 @@ redirect_from:
 E-mail: goyensflorentin@gmail.com<br/>
 Office: B306
 
-Université Paris Dauphine-PSL
-Place du Maréchal de Lattre de Tassigny
-75016 Paris
-FRANCE
+Université Paris Dauphine-PSL<br/>
+Place du Maréchal de Lattre de Tassigny<br/>
+75016 Paris<br/>
+FRANCE<br/>
