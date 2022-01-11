@@ -7,15 +7,10 @@ redirect_from:
   - /contact.html
 ---
 
-E-mail: goyens@maths.ox.ac.uk<br/>
-Office: S2.35
+E-mail: goyensflorentin@gmail.com<br/>
+Office: B306
 
-
-Mathematical Institute<br/>
-University of Oxford<br/>
-Andrew Wiles Building<br/>
-Radcliffe Observatory Quarter<br/>
-Woodstock Road<br/>
-Oxford<br/>
-OX2 6GG<br/>
-UK
+Université Paris Dauphine-PSL
+Place du Maréchal de Lattre de Tassigny
+75016 Paris
+FRANCE
