@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research Projects"
 author_profile: true
 redirect_from: 
   - /md/
