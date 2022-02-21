@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Reports
-* (2021) Nonlinear matrix recovery, F. Goyens, C. Cartis, A. Eftekhari.
+* (2021) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. [Arxiv](https://arxiv.org/abs/2109.06095)
 
 ## Conference papers
 * (2020) Smoothing of point clouds using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis. ICML, Beyond first order methods in Machine Learning Workshop
