@@ -2,10 +2,13 @@
 permalink: /research/
 title: "Research Projects"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /research.html
 ---
+
+## Reports
+* (2021) Nonlinear matrix recovery, F. Goyens, C. Cartis, A. Eftekhari.
 
 ## Conference papers
 * (2020) Smoothing of point clouds using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis. ICML, Beyond first order methods in Machine Learning Workshop
@@ -29,6 +32,6 @@ redirect_from:
 * IMA Conference on Numerical Linear Algebra and Optimization, Birmingham (UK) on June 28, 2018
 
 
-## Master thesis
-* (2016) Quasi-Newton methods for nonsmooth Riemannian optimization (Advisers: P.-A. Absil, W. Huang) 
-
+## Thesis
+* (PhD thesis, 2021) A Riemannian perspective on matrix recovery and constrained optimization
+* (Master thesis, 2016) Quasi-Newton methods for nonsmooth Riemannian optimization (Advisers: P.-A. Absil, W. Huang)
