@@ -18,6 +18,8 @@ Our code is based on the resolution of a nonconvex optimization problem, using [
 
 The registration problem consists in finding a transformation between two point clouds which describe the same object in different coordinate systems.
 
-![Registration image](/images/registration_image.png)
+<!-- ![Registration image](/images/registration_image.png) -->
+
+<img src="http://flgoyens.github.io/images/registration_image.png" width="1000" height="300" />
 
 Our code is based on the resolution of a nonconvex optimization problem, using [Riemannian optimization solvers](https://manopt.org). The code in both Matlab and Python is available on [Github](https://github.com/flgoyens/variety-registration). This package is described in Chapter 5 of [my doctoral thesis](http://flgoyens.github.io/files/dphil_thesis.pdf). A standalone paper is currently in preparation.
