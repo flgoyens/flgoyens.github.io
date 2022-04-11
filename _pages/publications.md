@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
+* (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [Arxiv](https://arxiv.org/abs/2204.01448)
 * (2021) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. [Arxiv](https://arxiv.org/abs/2109.06095)
 
 ## Conference papers
