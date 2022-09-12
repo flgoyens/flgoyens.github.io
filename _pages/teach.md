@@ -1,10 +1,10 @@
 ---
-permalink: /teach/
+permalink: /teaching/
 title: "Teaching"
 author_profile: true
 redirect_from:
   - /md/
-  - /teach.html
+  - /teaching.html
 ---
 
 ## Teaching in Oxford
