@@ -7,6 +7,9 @@ redirect_from:
   - /teaching.html
 ---
 
+## Teaching in Paris Dauphine - PSL
+* Fondements du machine learning, 2022
+
 ## Teaching in Oxford
 * Continuous optimisation, (C6.2 with Coralia Cartis), TA, 2019 - 2021
 
