@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Teaching in Paris Dauphine - PSL
-* Fondements du machine learning, 2022
+* [Fondements du machine learning](https://flgoyens.github.io/teaching/FML2022/), 2022
 
 ## Teaching in Oxford
 * Continuous optimisation, (C6.2 with Coralia Cartis), TA, 2019 - 2021
