@@ -2,12 +2,12 @@
 permalink: /contact/
 title: "Contact"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /contact.html
 ---
 
-E-mail: goyensflorentin@gmail.com<br/>
+E-mail: goyensflorentin [at] gmail.com<br/>
 Office: B306
 
 Université Paris Dauphine-PSL<br/>
