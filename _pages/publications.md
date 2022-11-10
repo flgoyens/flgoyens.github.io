@@ -4,15 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Journal publications
+* * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [(ACHA)](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [(Arxiv)](https://arxiv.org/abs/2109.06095)
 
 ## Preprints
 * (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [Arxiv](https://arxiv.org/abs/2204.01448)
-* (2021) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. [Arxiv](https://arxiv.org/abs/2109.06095)
+* (2022) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [(PDF)](http://flgoyens.github.io/files/dphil_thesis.pdf)
+
 
 ## Conference papers
 * (2020) Smoothing of point clouds using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis. ICML, Beyond first order methods in Machine Learning Workshop
 * (2019) Nonlinear matrix recovery, F. Goyens, A. Eftekhari, C. Cartis. NeurIPS,  Beyond first order methods in Machine Learning Workshop
-* (2018) A Probabilistic Model for Precedence Rules and Reactionary Delay in Air Traffic Management, F. Goyens, F. Gonze, A. Simonetto, E. Huens, J. Boucquey, R. M. Jungers. ICRAT
+* (2018) A Probabilistic Model for Precedence Rules and Reactionary Delay in Air Traffic Management, F. Goyens, F. Gonze, A. Simonetto, E. Huens, J. Boucquey, R. M. Jungers. In Proceedings of the International Conference on Research in Air Transportation (ICRAT), Barcelona, Spain, June 2018
+[Best Paper Award for the system performance track]
 
 
 ## Talks
@@ -32,5 +36,5 @@ author_profile: true
 
 
 ## Thesis
-* (PhD thesis, 2021) A Riemannian perspective on matrix recovery and constrained optimization
+* (PhD thesis, 2021) A Riemannian perspective on matrix recovery and constrained optimization [[PDF]](http://flgoyens.github.io/files/dphil_thesis.pdf)
 * (Master thesis, 2016) Quasi-Newton methods for nonsmooth Riemannian optimization (Advisers: P.-A. Absil, W. Huang)
