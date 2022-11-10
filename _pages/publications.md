@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal publications
-* (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [ \[Arxiv\] ](https://arxiv.org/abs/2109.06095)
+* (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095)
 
 ## Preprints
-* (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [Arxiv](https://arxiv.org/abs/2204.01448)
+* (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [[Arxiv]](https://arxiv.org/abs/2204.01448)
 * (2022) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [(PDF)](http://flgoyens.github.io/files/dphil_thesis.pdf)
 
 
@@ -36,5 +36,5 @@ author_profile: true
 
 
 ## Thesis
-* (PhD thesis, 2021) A Riemannian perspective on matrix recovery and constrained optimization [[PDF]](http://flgoyens.github.io/files/dphil_thesis.pdf)
+* (PhD thesis, 2021) A Riemannian perspective on matrix recovery and constrained optimization [[pdf]](http://flgoyens.github.io/files/dphil_thesis.pdf)
 * (Master thesis, 2016) Quasi-Newton methods for nonsmooth Riemannian optimization (Advisers: P.-A. Absil, W. Huang)
