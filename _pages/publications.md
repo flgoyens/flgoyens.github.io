@@ -20,7 +20,7 @@ author_profile: true
 
 
 ## Talks
-* SIAM Optimization conference, Seattle, June 2023 [(Slides)](http://flgoyens.github.io/files/slides_SIAMOP_2023)
+* SIAM Optimization conference, Seattle, June 2023 [(Slides)](http://flgoyens.github.io/files/slides_SIAMOP_2023.pdf)
 * Seminar of DATA department, LJK Institute, Grenoble, February 2023
 * 6th IMA Conference on the Mathematical Challenges of Big Data, Oxford (UK), September 2022
 * Curves and Surfaces conference, Arcachon (France), June 2022
