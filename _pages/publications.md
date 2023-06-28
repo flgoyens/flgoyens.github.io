@@ -20,6 +20,12 @@ author_profile: true
 
 
 ## Talks
+* SIAM Optimization conference, Seattle, June 2023 [(Slides)](http://flgoyens.github.io/files/slides_SIAMOP_2023)
+* Seminar of DATA department, LJK Institute, Grenoble, February 2023
+* 6th IMA Conference on the Mathematical Challenges of Big Data, Oxford (UK), September 2022
+* Curves and Surfaces conference, Arcachon (France), June 2022
+* IMA conference on Numerical Linear Algebra and Optimization, Birmingham (UK) June 2022
+* Seminar of MILES research group, Paris-Dauphine, October 2021
 * ICML, poster as part of the workshop "Beyond first order methods in Machine Learning", Online conference on July 17, 2020
 * Mathematics of Data Science, graduate online conference on June 11, 2020
 * Seminar at the Mathematical Engineering department in Louvain-la-Neuve (Belgium) on December 17, 2019
