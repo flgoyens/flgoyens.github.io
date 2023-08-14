@@ -3,18 +3,18 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 # About me
 
-In January 2022 I started a Postdoc at the university of Paris Dauphine with Clément Royer. 
+In January 2022 I started a Postdoc at the university of Paris Dauphine with Clément Royer.
 
 Prior to that:
 
-- Ph.D. in the Applied Mathematics department at the University of Oxford. I worked with Coralia Cartis and Armin Eftekhari. My research was supported by the Alan Turing Institute. The Institute located in London is the UK's national institute for Data Science.
+- Ph.D. in mathematics at the University of Oxford. I worked with Coralia Cartis and Armin Eftekhari. My research was supported by the Alan Turing Institute. The Institute located in London is the UK's national institute for Data Science. My thesis is called "A Riemannian perspective on nonlinear matrix recovery and constrained optimization".
 
 - Undergraduate and Master's Degree in Mathematical Engineering at UCLouvain in Belgium. I worked with Pierre-Antoine Absil, Wen Huang and Raphael Jungers. My master thesis is about "Quasi-Newton methods for nonsmooth Riemannian optimization".  
 
@@ -22,4 +22,3 @@ Prior to that:
 - Nonlinear matrix recovery
 - Optimization on Riemannian manifolds
 - Second-order optimization methods
-
