@@ -19,7 +19,7 @@ Prior to that:
 - Undergraduate and Master's Degree in Mathematical Engineering at UCLouvain in Belgium. I worked with Pierre-Antoine Absil, Wen Huang and Raphael Jungers. My master thesis is about "Quasi-Newton methods for nonsmooth Riemannian optimization".  
 
 # Research interests
-- Nonlinear programming, numerical analysis, data science
+- Nonlinear optimization, numerical analysis, data science
 - Nonlinear matrix recovery
 - Optimization on Riemannian manifolds
 - Second-order optimization methods
