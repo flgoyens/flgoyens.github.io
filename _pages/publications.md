@@ -9,8 +9,7 @@ author_profile: true
 
 ## Preprints
 * (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [[Arxiv]](https://arxiv.org/abs/2204.01448)
-* (2022) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [(PDF)](http://flgoyens.github.io/files/dphil_thesis.pdf)
-
+* (2022) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [(PDF)](http://flgoyens.github.io/files/registrationIEEE.pdf)
 
 ## Conference papers
 * (2020) Smoothing of point clouds using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis. ICML, Beyond first order methods in Machine Learning Workshop
