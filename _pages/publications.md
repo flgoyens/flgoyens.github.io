@@ -8,8 +8,8 @@ author_profile: true
 * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095)
 
 ## Preprints
+* (2024) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [(Arxiv)](https://arxiv.org/abs/2401.08562)
 * (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [[Arxiv]](https://arxiv.org/abs/2204.01448)
-* (2022) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [(PDF)](http://flgoyens.github.io/files/registrationIEEE.pdf)
 
 ## Conference papers
 * (2020) Smoothing of point clouds using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis. ICML, Beyond first order methods in Machine Learning Workshop
