@@ -8,6 +8,7 @@ author_profile: true
 * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095)
 
 ## Preprints
+* (2024) Riemannian trust-region methods for strict saddle functions with complexity guarantees, F. Goyens, C. W. Royer [(Arxiv)](https://arxiv.org/abs/2402.07614)
 * (2024) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [(Arxiv)](https://arxiv.org/abs/2401.08562)
 * (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [[Arxiv]](https://arxiv.org/abs/2204.01448)
 
