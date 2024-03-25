@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Journal publications
 * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095) [[Code]](https://github.com/flgoyens/nonlinear-matrix-recovery)
-* (2024)Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. To appear in [JOTA](https://link.springer.com/journal/10957).
+* (2024) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. To appear in [JOTA](https://link.springer.com/journal/10957).
 
 ## Preprints
 * (2024) Riemannian trust-region methods for strict saddle functions with complexity guarantees [[ArXiv]](https://arxiv.org/abs/2402.07614)
