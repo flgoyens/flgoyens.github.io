@@ -21,6 +21,8 @@ author_profile: true
 
 
 ## Talks
+* NOPTA in Antwerp Belgium, April 2024 [(Poster)](http://flgoyens.github.io/files/nopta_2024_poster.pdf)
+* SMAI MODE 2024 in Lyon France, March 2024
 * European Conference on Computational Optimization (EUCCO), Optimization on manifolds session, Heidelberg, September 2023
 * SIAM Optimization conference, Seattle, June 2023 [(Slides)](http://flgoyens.github.io/files/slides_SIAMOP_2023.pdf)
 * Seminar of DATA department, LJK Institute, Grenoble, February 2023
