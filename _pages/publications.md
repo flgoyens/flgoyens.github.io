@@ -19,8 +19,8 @@ author_profile: true
 * (2018) A Probabilistic Model for Precedence Rules and Reactionary Delay in Air Traffic Management, F. Goyens, F. Gonze, A. Simonetto, E. Huens, J. Boucquey, R. M. Jungers. In Proceedings of the International Conference on Research in Air Transportation (ICRAT), Barcelona, Spain, June 2018
 [Best Paper Award for the system performance track]
 
-
 ## Talks
+* SIAM Applied Linear Algebra in Paris, Mai 2024
 * NOPTA in Antwerp Belgium, April 2024 [(Poster)](http://flgoyens.github.io/files/nopta_2024_poster.pdf)
 * SMAI MODE 2024 in Lyon France, March 2024
 * European Conference on Computational Optimization (EUCCO), Optimization on manifolds session, Heidelberg, September 2023
