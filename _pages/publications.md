@@ -20,6 +20,7 @@ author_profile: true
 [Best Paper Award for the system performance track]
 
 ## Talks
+* ISMP, Montreal, July 2024 [(Slides)](http://flgoyens.github.io/files/slides_ISMP_2024.pdf)
 * SIAM Applied Linear Algebra in Paris, Mai 2024
 * NOPTA in Antwerp Belgium, April 2024 [(Poster)](http://flgoyens.github.io/files/nopta_2024_poster.pdf)
 * SMAI MODE 2024 in Lyon France, March 2024
