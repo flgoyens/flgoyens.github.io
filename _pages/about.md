@@ -10,9 +10,11 @@ redirect_from:
 
 # About me
 
-In January 2022 I started a Postdoc at the university of Paris Dauphine with Clément Royer.
+As of August 2024, I am a researcher at UCLouvain in Belgium, working with Pierre-Antoine Absil.
 
 Prior to that:
+
+- From 2022 to 2024, I was a postdoc at the university of Paris Dauphine with Clément Royer.
 
 - Ph.D. in mathematics at the University of Oxford. I worked with Coralia Cartis and Armin Eftekhari. My research was supported by the Alan Turing Institute. The Institute located in London is the UK's national institute for Data Science. My thesis is called "A Riemannian perspective on nonlinear matrix recovery and constrained optimization".
 

@@ -7,10 +7,10 @@ redirect_from:
   - /contact.html
 ---
 
-E-mail: goyensflorentin [at] gmail.com<br/>
-Office: B306
+E-mail: florentin.goyens [at] uclouvain.be<br/>
+Office: a.010
 
-Université Paris Dauphine-PSL<br/>
-Place du Maréchal de Lattre de Tassigny<br/>
-75016 Paris<br/>
-FRANCE<br/>
+Euler building<br/>
+Avenue Georges Lemaître 4,6<br/>
+1348 Ottignies Louvain-la-Neuve<br/>
+Belgium<br/>
