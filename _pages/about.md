@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-As of August 2024, I am working as a researcher at UCLouvain in Belgium.
+As of August 2024, I am working as a postdoctoral researcher at UCLouvain in the group of P.-A. Absil.
 
 Prior to that:
 
