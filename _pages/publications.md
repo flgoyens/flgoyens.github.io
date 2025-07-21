@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal publications
+* (2024) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [[JOTA]](https://link.springer.com/journal/10957) [[Arxiv]](https://arxiv.org/abs/2204.01448).
+* (2024) Riemannian trust-region methods for strict saddle functions with complexity guarantees, F. Goyens and Clément W. Royer. [[Mathematical Programming]](https://doi.org/10.1007/s10107-024-02156-2) [[ArXiv]](https://arxiv.org/abs/2402.07614).
 * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095) [[Code]](https://github.com/flgoyens/nonlinear-matrix-recovery)
-* (2024) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. To appear in [JOTA](https://link.springer.com/journal/10957) [[Arxiv]](https://arxiv.org/abs/2204.01448).
-* (2024) Riemannian trust-region methods for strict saddle functions with complexity guarantees, F. Goyens and Clément W. Royer. To appear in Mathematical Programming [[ArXiv]](https://arxiv.org/abs/2402.07614).
 
 ## Preprints
 * (2024) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [[Arxiv]](https://arxiv.org/abs/2401.08562) [[Code]](https://github.com/flgoyens/variety-registration)
-* (2022) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [[Arxiv]](https://arxiv.org/abs/2204.01448)
 
 ## Conference papers
+* (2025) Geometric design of the tangent term in landing algorithms for orthogonality constraints, F. Goyens, P.-A. Absil, F. Feppon. to appear in GSI(https://conference-gsi.org/) proceedings. [pdf](http://flgoyens.github.io/files/GSI25-101.pdf)
 * (2020) Smoothing of point clouds using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis. ICML, Beyond first order methods in Machine Learning Workshop
 * (2019) Nonlinear matrix recovery, F. Goyens, A. Eftekhari, C. Cartis. NeurIPS,  Beyond first order methods in Machine Learning Workshop
 * (2018) A Probabilistic Model for Precedence Rules and Reactionary Delay in Air Traffic Management, F. Goyens, F. Gonze, A. Simonetto, E. Huens, J. Boucquey, R. M. Jungers. In Proceedings of the International Conference on Research in Air Transportation (ICRAT), Barcelona, Spain, June 2018
