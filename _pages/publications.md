@@ -9,8 +9,10 @@ author_profile: true
 * (2024) Riemannian trust-region methods for strict saddle functions with complexity guarantees, F. Goyens and Clément W. Royer. [[Mathematical Programming]](https://doi.org/10.1007/s10107-024-02156-2) [[ArXiv]](https://arxiv.org/abs/2402.07614).
 * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095) [[Code]](https://github.com/flgoyens/nonlinear-matrix-recovery)
 
-## Preprints
+## Preprints (under review)
+* (2025) Complexity guarantees and polling strategies for Riemannian direct-search methods, B. Cavarretta, F. Goyens, C. W. Royer, F. Yger [[Arxiv]](https://arxiv.org/abs/2511.15360) [[Code]](https://github.com/bastiencavarretta/intrinsic-vs-projected-directsearch)
 * (2024) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [[Arxiv]](https://arxiv.org/abs/2401.08562) [[Code]](https://github.com/flgoyens/variety-registration)
+
 
 ## Conference papers
 * (2025) Geometric design of the tangent term in landing algorithms for orthogonality constraints, F. Goyens, P.-A. Absil, F. Feppon. Geometric Science of Information [paper](https://link.springer.com/chapter/10.1007/978-3-032-03924-8_14)  [pdf](http://flgoyens.github.io/files/GSI25-101.pdf)
@@ -20,6 +22,11 @@ author_profile: true
 [Best Paper Award for the system performance track]
 
 ## Talks
+* BNAIC/BENELEARN, Namur, November 2025
+* NUMA seminar, Leuven (Belgium), November 2025
+* Geometric Science of Information, St Malo (France), October 2025
+* Workshop on Low-Rank Models and Applications LRMA 25, Mons (Belgium), September 2025 (poster)
+* International Conference on Continuous Optimization (ICCOPT), Los Angeles, July 2025
 * Young Scholar Day of the Belgian Mathematical society, Leuven, June 2025
 * Seminar, LMU Munich, January 2025
 * ISMP, Montreal, July 2024 [(Slides)](http://flgoyens.github.io/files/slides_ISMP_2024.pdf)
