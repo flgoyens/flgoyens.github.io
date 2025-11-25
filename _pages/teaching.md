@@ -15,6 +15,7 @@ redirect_from:
 * Continuous optimisation, (C6.2 with Coralia Cartis), TA, 2019 - 2021
 
 ## Teaching at UCLouvain
+* Modelling and analysis of dynamical systems (LINMA2370), 2025
 * Numerical analysis: Approximation, Interpolation, Integration (LINMA2171), TA, 2024
 * Stochastic processes : Estimation and prediction, (LINMA1731 with Pierre-Antoine Absil), TA, 2017
 * Optimization models and methods 1, (LINMA1702 with Francois Glineur), TA, 2016
