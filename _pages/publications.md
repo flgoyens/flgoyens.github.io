@@ -10,6 +10,7 @@ author_profile: true
 * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095) [[Code]](https://github.com/flgoyens/nonlinear-matrix-recovery)
 
 ## Preprints (under review)
+* (2025) Complexity of quadratic penalty methods with adaptive accuracy under a PL condition for the constraints, F. Goyens and G. N. Gapiglia [[Preprint]](https://optimization-online.org/?p=32743)
 * (2025) Complexity guarantees and polling strategies for Riemannian direct-search methods, B. Cavarretta, F. Goyens, C. W. Royer, F. Yger [[Arxiv]](https://arxiv.org/abs/2511.15360) [[Code]](https://github.com/bastiencavarretta/intrinsic-vs-projected-directsearch)
 * (2024) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [[Arxiv]](https://arxiv.org/abs/2401.08562) [[Code]](https://github.com/flgoyens/variety-registration)
 
