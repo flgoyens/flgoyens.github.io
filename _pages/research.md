@@ -96,11 +96,11 @@ redirect_from:
       <span class="research-tag">Optimization on manifolds</span>
       <h2>Nonlinear matrix recovery</h2>
       <p class="research-blurb">
-        Reconstruct structured matrices from a small set of affine measurements by enforcing that columns live on nonlinear geometric models (clusters, algebraic varieties). We cast the problem as a smooth manifold optimization and solve it efficiently with Riemannian trust-region solvers, reducing sample complexity while keeping reconstructions stable.
+        Reconstruct structured matrices from a small set of affine measurements by enforcing that columns satisfy a nonlinear geometric structure (clusters, algebraic varieties). We cast the problem as a optimization on a smooth manifold and solve it with Riemannian trust-region or alternating minimization.
       </p>
       <div class="research-links">
-        <a class="research-link" href="https://arxiv.org/abs/2109.06095">Key paper</a>
-        <a class="research-link secondary" href="https://github.com/flgoyens/nonlinear-matrix-recovery">Code (Matlab &amp; Python)</a>
+        <a class="research-link" href="https://arxiv.org/abs/2109.06095">Paper</a>
+        <a class="research-link secondary" href="https://github.com/flgoyens/nonlinear-matrix-recovery">Code</a>
       </div>
     </div>
   </article>
@@ -113,12 +113,29 @@ redirect_from:
       <span class="research-tag">Geometric data alignment</span>
       <h2>Point cloud registration on algebraic varieties</h2>
       <p class="research-blurb">
-        Align two point clouds of the same object when points live on an algebraic variety (e.g., rotation matrices). The approach estimates the transformation by optimizing directly on the manifold, which handles noisy samples and respects the geometry of the underlying shape.
+        Align two point clouds of the same object that is well approximated by an algebraic variety. We first estimate the algebraic variety that best approximates the data. Then, we compute the transformation by enforcing that the surfaces of both objects overlap. This handles noisy samples and preserves the shape of the data.
       </p>
       <div class="research-links">
         <a class="research-link" href="https://arxiv.org/abs/2401.08562">Preprint</a>
         <a class="research-link secondary" href="https://github.com/flgoyens/variety-registration">Code</a>
-        <a class="research-link secondary" href="http://flgoyens.github.io/files/dphil_thesis.pdf">Thesis chapter</a>
+        <!-- <a class="research-link secondary" href="http://flgoyens.github.io/files/dphil_thesis.pdf">Thesis chapter</a> -->
+      </div>
+    </div>
+  </article>
+
+  <article class="research-card">
+    <figure class="research-thumb">
+      <img src="/images/image_strict_saddle.png" alt="Illustration for strict saddle optimization">
+    </figure>
+    <div class="research-content">
+      <span class="research-tag">Second-order optimization</span>
+      <h2>Strict saddle optimization</h2>
+      <p class="research-blurb">
+        Some nonconvex problems have a strict saddle geometry: strong convexity near minimizers and negative curvature at saddles. We study Riemannian trust-region methods in this setting, showing that they find approximate minimizers with an iteration count that scales only logarithmically with accuracy. We also design an inexact variant that chooses steps using the strict saddle structure, improving complexity guarantees over the general nonconvex case.
+      </p>
+      <div class="research-links">
+        <a class="research-link" href="https://doi.org/10.1007/s10107-024-02156-2">Journal paper</a>
+        <a class="research-link secondary" href="https://arxiv.org/abs/2402.07614">Preprint</a>
       </div>
     </div>
   </article>
