@@ -88,12 +88,30 @@ redirect_from:
 </style>
 
 <div class="research-grid">
+
+  <article class="research-card">
+    <figure class="research-thumb">
+      <img src="/images/image_strict_saddle.png" alt="Illustration for strict saddle optimization">
+    </figure>
+    <div class="research-content">
+      <span class="research-tag">Optimization on manifolds</span>
+      <h2>Strict saddle optimization</h2>
+      <p class="research-blurb">
+        Some nonconvex problems have a strict saddle geometry: strong convexity near minimizers and negative curvature at saddles. We study Riemannian trust-region methods in this setting, showing that they find approximate minimizers with an iteration count that scales only logarithmically with accuracy. We also design an inexact variant that chooses steps using the strict saddle structure, improving complexity guarantees over the general nonconvex case.
+      </p>
+      <div class="research-links">
+        <a class="research-link" href="https://doi.org/10.1007/s10107-024-02156-2">Paper</a>
+        <a class="research-link secondary" href="https://arxiv.org/abs/2402.07614">Preprint</a>
+      </div>
+    </div>
+  </article>
+
   <article class="research-card">
     <figure class="research-thumb">
       <img src="/images/image_matrix_recovery.png" alt="Illustration for nonlinear matrix recovery">
     </figure>
     <div class="research-content">
-      <span class="research-tag">Optimization on manifolds</span>
+      <span class="research-tag">Inverse problem</span>
       <h2>Nonlinear matrix recovery</h2>
       <p class="research-blurb">
         Reconstruct structured matrices from a small set of affine measurements by enforcing that columns satisfy a nonlinear geometric structure (clusters, algebraic varieties). We cast the problem as a optimization on a smooth manifold and solve it with Riemannian trust-region or alternating minimization.
@@ -123,20 +141,5 @@ redirect_from:
     </div>
   </article>
 
-  <article class="research-card">
-    <figure class="research-thumb">
-      <img src="/images/image_strict_saddle.png" alt="Illustration for strict saddle optimization">
-    </figure>
-    <div class="research-content">
-      <span class="research-tag">Second-order optimization</span>
-      <h2>Strict saddle optimization</h2>
-      <p class="research-blurb">
-        Some nonconvex problems have a strict saddle geometry: strong convexity near minimizers and negative curvature at saddles. We study Riemannian trust-region methods in this setting, showing that they find approximate minimizers with an iteration count that scales only logarithmically with accuracy. We also design an inexact variant that chooses steps using the strict saddle structure, improving complexity guarantees over the general nonconvex case.
-      </p>
-      <div class="research-links">
-        <a class="research-link" href="https://doi.org/10.1007/s10107-024-02156-2">Journal paper</a>
-        <a class="research-link secondary" href="https://arxiv.org/abs/2402.07614">Preprint</a>
-      </div>
-    </div>
-  </article>
+
 </div>
