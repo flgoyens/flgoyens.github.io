@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+Welcome to my website!
 
-Welcome to my website, I am a researcher working in numerical optimization and applied mathematics. 
+I am a researcher working in numerical optimization and applied mathematics. 
 As of August 2024, I am working as a postdoctoral researcher at UCLouvain in the group of   
 Pierre-Antoine Absil.
 
