@@ -24,6 +24,9 @@ author_profile: true
 [Best Paper Award for the system performance track]
 
 ## Talks
+* SOCN [Study Day](https://sites.uclouvain.be/socn/drupal/socn/node/533), Namur, September 2026
+* Oberwolfach, July 2026
+* SIAM Optimization conference, Edinburgh, June 2026
 * BNAIC/BENELEARN, Namur, November 2025
 * NUMA seminar, Leuven (Belgium), November 2025
 * Geometric Science of Information, St Malo (France), October 2025
