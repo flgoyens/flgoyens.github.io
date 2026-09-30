@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal publications
+* (2026) Complexity guarantees and polling strategies for Riemannian direct-search methods, B. Cavarretta, F. Goyens, C. W. Royer, F. Yger. To appear in [COAP](https://link.springer.com/journal/10589): [[Arxiv]](https://arxiv.org/abs/2511.15360) [[Code]](https://github.com/bastiencavarretta/intrinsic-vs-projected-directsearch)
 * (2024) Computing second-order points under equality constraints: revisiting Fletcher's augmented Lagrangian, F. Goyens, A. Eftekhari, N. Boumal. [[JOTA]](https://link.springer.com/article/10.1007/s10957-024-02421-6) [[Arxiv]](https://arxiv.org/abs/2204.01448).
 * (2024) Riemannian trust-region methods for strict saddle functions with complexity guarantees, F. Goyens and Clément W. Royer. [[Mathematical Programming]](https://doi.org/10.1007/s10107-024-02156-2) [[ArXiv]](https://arxiv.org/abs/2402.07614).
 * (2022) Nonlinear matrix recovery using optimization on the Grassmann manifold, F. Goyens, C. Cartis, A. Eftekhari. Applied and Computational Harmonic Analysis [[ACHA]](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000859) [[Arxiv]](https://arxiv.org/abs/2109.06095) [[Code]](https://github.com/flgoyens/nonlinear-matrix-recovery)
@@ -12,7 +13,6 @@ author_profile: true
 ## Preprints (under review)
 * (2026) The Riemannian landing method: from projected gradient flows to SQP, F. Goyens and F. Feppon [[Arxiv]](https://arxiv.org/abs/2603.24309)
 * (2025) Complexity of quadratic penalty methods with adaptive accuracy under a PL condition for the constraints, F. Goyens and G. N. Gapiglia [[Preprint]](https://optimization-online.org/?p=32743)
-* (2025) Complexity guarantees and polling strategies for Riemannian direct-search methods, B. Cavarretta, F. Goyens, C. W. Royer, F. Yger [[Arxiv]](https://arxiv.org/abs/2511.15360) [[Code]](https://github.com/bastiencavarretta/intrinsic-vs-projected-directsearch)
 * (2024) Registration of algebraic varieties using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis [[Arxiv]](https://arxiv.org/abs/2401.08562) [[Code]](https://github.com/flgoyens/variety-registration)
 
 
