@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 
-I am an FNRS researcher working in numerical optimization and applied mathematics. 
+I am an FNRS postdoctoral researcher working in numerical optimization and applied mathematics. 
 Since August 2024, I have been in the group of Pierre-Antoine Absil at UCLouvain. 
 
 Prior to that:
