@@ -17,6 +17,7 @@ author_profile: true
 
 
 ## Conference papers
+* (2026) The sketched landing method for large-scale optimization under orthogonality constraints, F. Goyens, S. Mataigne, P.-A. Absil, Controlo conference,  Coimbra, Portugal, September 2026. [Arxiv](https://arxiv.org/abs/2605.31505) 
 * (2025) Geometric design of the tangent term in landing algorithms for orthogonality constraints, F. Goyens, P.-A. Absil, F. Feppon. Geometric Science of Information [paper](https://link.springer.com/chapter/10.1007/978-3-032-03924-8_14)  [pdf](http://flgoyens.github.io/files/GSI25-101.pdf)
 * (2020) Smoothing of point clouds using Riemannian optimization, F. Goyens, S. Chretien, C. Cartis. ICML, Beyond first order methods in Machine Learning Workshop
 * (2019) Nonlinear matrix recovery, F. Goyens, A. Eftekhari, C. Cartis. NeurIPS,  Beyond first order methods in Machine Learning Workshop
